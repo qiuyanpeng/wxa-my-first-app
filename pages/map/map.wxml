@@ -1,0 +1,6 @@
+<!--pages/map/map.wxml-->
+<view class="container">
+  <view class="map">
+    <map latitude="31.2320721" longitude="121.4082912" show-location style="height:500px;"></map>
+  </view>
+</view>
